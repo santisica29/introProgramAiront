@@ -1,2 +1,2 @@
-To learn JavaScrpit I'm using: https://30dayjavascript.js.org/01-day/#external-script <br>
+To learn JavaScrpit I'm using: https://30dayjavascript.js.org/ <br>
 And: https://javascript.info/
