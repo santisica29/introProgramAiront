@@ -12,4 +12,4 @@
 <a href="https://ahrefs.com/blog/open-graph-meta-tags/">Learn social media meta-tags optimization</a>
 <hr>
 <h2>To learn Input elements and Input types</h2>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">here</a> <br> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">and here</a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input">here</a>
