@@ -8,3 +8,5 @@
 <h2> Learn JavaScript Basics</h2> <a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/js-basics.md">here</a>
 <h2> Learn HTML, meta-tags and input types</h2>
 <a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/html-basics.md">right here</a>
+<h2> Learn data- attributes and cookie vs local storage vs session storage</h2>
+<a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/data-attribute-and-storage.md">here</a>
