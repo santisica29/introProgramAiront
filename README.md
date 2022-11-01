@@ -10,3 +10,4 @@
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/data-attribute-and-storage.md">Learn about data- attributes and cookie vs local storage vs session storage</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/html-semantics-accessibility.md">Learn why using semantic elements helps with accessibility</a>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/dom-and-seo.md">Learn about DOM and SEO</a>
+<h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/css-basics.md">Learn CSS, Flexbox and Grid</a></h2>
