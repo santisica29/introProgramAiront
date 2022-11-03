@@ -13,4 +13,4 @@
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/css-basics.md">Learn the basics of CSS</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/js-scope-hoisting-strict.md">Learn JS scope, hoisting and strict mode</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/media-queries-css-units.md">Learn media queries, CSS units and their differences</a></h2>
-<h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/css-flexbox-grid.md">Learn Flexbox and Grid to make your life easier when doing layouts</a></h2>
+<h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/css-flexbox-grid.md">Learn Flexbox and Grid layouts to make your life easier</a></h2>
