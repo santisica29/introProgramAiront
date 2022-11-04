@@ -19,3 +19,4 @@
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/css-preprocessors.md">Learn CSS preprocessor SASS</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/css-methodologies.md">Learn CSS methodologies like OOCSS, BEM, SMACSS</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/cookies-storage.md">Learn what cookies are and the difference between local and session storage</a></h2>
+<h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/http-session-management.md">Learn HTTP, request methods, status code and more; plus what is Session Management</a></h2>
