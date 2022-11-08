@@ -20,4 +20,5 @@
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/css-methodologies.md">Learn CSS methodologies like OOCSS, BEM, SMACSS</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/cookies-storage.md">Learn what cookies are and the difference between local and session storage</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/http-session-management.md">Learn HTTP, request methods, status code and more; plus what is Session Management</a></h2>
-<h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/http2-http3.md">Learn HTTP 2.0 and HTTP 3.0 to see how they improved the HyperText Transport Protocol (HTTP)</a></h2>
+<h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/http2-http3.md">Learn HTTP 2.0 and HTTP 3.0 to see how they improved the HyperText Transfer Protocol (HTTP)</a></h2>
+<h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/https.md">Learn HTTPS to make your connections secure</a></h2>
