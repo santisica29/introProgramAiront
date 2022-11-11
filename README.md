@@ -22,3 +22,4 @@
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/http-session-management.md">Learn HTTP, request methods, status code and more; plus what is Session Management</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/http2-http3.md">Learn HTTP 2.0 and HTTP 3.0 to see how they improved the HyperText Transfer Protocol (HTTP)</a></h2>
 <h2><a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/https.md">Learn HTTPS to make your connections secure</a></h2>
+## [Learn about Ajax and Fetch API](https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/ajax-xhr-fetch-api.md)
