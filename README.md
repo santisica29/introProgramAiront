@@ -41,3 +41,5 @@
 ## <a href="https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/https.md">Learn HTTPS to make your connections secure</a></h2>
 
 ## [Learn about Ajax and Fetch API](https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/ajax-xhr-fetch-api.md)
+
+## [Learn CORS, JSON and JSONP](https://github.com/santisica29/introProgramAiront/blob/main/studyMaterial/cors-jsonp.md)
