@@ -1,4 +1,4 @@
-# Learn CORS (Cross-origin resource sharing), JSON (JavaScript Object Notation) and JSONP (JS Object Notatio with Padding):
+## Learn CORS (Cross-origin resource sharing), JSON (JavaScript Object Notation) and JSONP (JS Object Notation with Padding):
 
 [CORS](https://www.w3schools.com/tags/att_script_crossorigin.asp)
 
